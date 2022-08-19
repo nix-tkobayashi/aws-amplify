@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jipuri-dev-74840-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596912130800:role/amplify-jipuri-dev-74840-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596912130800:role/amplify-jipuri-dev-74840-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-jipuri-dev-74840-deployment",
+      "UnauthRoleName": "amplify-jipuri-dev-74840-unauthRole",
+      "StackName": "amplify-jipuri-dev-74840",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:596912130800:stack/amplify-jipuri-dev-74840/57ebfb10-1f93-11ed-b47a-0eb0845e505f",
+      "AmplifyAppId": "d2i9sn0lus6b0"
+    },
+    "categories": {
+      "function": {
+        "jipuri3513b90b": {
+          "deploymentBucketName": "amplify-jipuri-dev-74840-deployment",
+          "s3Key": "amplify-builds/jipuri3513b90b-336f347851786a4f5070-build.zip"
+        },
+        "jipuri597bcc03": {
+          "deploymentBucketName": "amplify-jipuri-dev-74840-deployment",
+          "s3Key": "amplify-builds/jipuri597bcc03-7936636664522b675532-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2i9sn0lus6b0",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
