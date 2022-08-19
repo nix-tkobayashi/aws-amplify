@@ -21,12 +21,6 @@
           "deploymentBucketName": "amplify-jipuri-dev-74840-deployment",
           "s3Key": "amplify-builds/jipuri597bcc03-7936636664522b675532-build.zip"
         }
-      },
-      "hosting": {
-        "amplifyhosting": {
-          "appId": "d2i9sn0lus6b0",
-          "type": "manual"
-        }
       }
     }
   }
